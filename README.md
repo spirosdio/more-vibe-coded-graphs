@@ -1,5 +1,7 @@
 # Salary Analysis of Developers in Greece
 watch this video first the data are from them -> https://www.youtube.com/watch?v=gPKKFacMbgQ
+
+
 This repository contains an analysis of developer salaries in Greece, based on a 2024 survey. The analysis focuses on developers working with Go, C#, and Python.
 
 ## Go Developers
